@@ -1,0 +1,10 @@
+
+scmVersion {
+    localOnly.set(true)
+    useHighestVersion.set(true)
+
+    tag {
+        prefix.set("v")
+        versionSeparator.set("")
+    }
+}
